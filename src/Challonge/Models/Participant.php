@@ -3,6 +3,7 @@
 namespace Reflex\Challonge\Models;
 
 use Reflex\Challonge\Model;
+use Reflex\Challonge\Helpers\Guzzle;
 
 class Participant extends Model
 {
