@@ -1,5 +1,5 @@
 {
-    "name": "team-reflex/challonge-php",
+    "name": "lanops/challonge-php",
     "description": "Unofficial API to interface with the bracket generator Challonge.",
     "require": {
         "guzzlehttp/guzzle": "^6.0"
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Kyle Ward",
-            "email": "kairu@team-reflex.com"
+            "name": "Thornton Phillis",
+            "email": "Th0rn0@lanops.co.uk"
         }
     ],
     "autoload": {
