@@ -12,7 +12,7 @@ class Challonge
     /**
      * ChallongePHP version.
      */
-    const VERSION = '1.0.3';
+    const VERSION = '1.0.5';
 
     /**
      * Instantiate an instance with the API key.
