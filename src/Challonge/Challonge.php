@@ -231,7 +231,7 @@ class Challonge
      **/
     public function matchResults($matches, $playerId, $participantName)
     {
-        $result = ['win'=>0, 'lose'=>0, 'tie'=>0, 'pts'=>0, 'history'=>[], 'name'=>$participantName];
+        $result = ['win'=>0, 'lose'=>0, 'tie'=>0, 'pts'=>0, 'history'=>[], 'name'=>$participantName, 'id'=>$playerId];
         // $history = [];
         foreach ($matches as $match) {          
             // dump($match);
