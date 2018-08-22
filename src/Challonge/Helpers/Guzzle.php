@@ -1,14 +1,14 @@
 <?php
 
-namespace Reflex\Challonge\Helpers;
+namespace Lanops\Challonge\Helpers;
 
 use GuzzleHttp\Client;
-use Reflex\Challonge\Exceptions\ServerException;
-use Reflex\Challonge\Exceptions\NotFoundException;
-use Reflex\Challonge\Exceptions\ValidationException;
-use Reflex\Challonge\Exceptions\UnauthorizedException;
-use Reflex\Challonge\Exceptions\InvalidFormatException;
-use Reflex\Challonge\Exceptions\UnexpectedErrorException;
+use Lanops\Challonge\Exceptions\ServerException;
+use Lanops\Challonge\Exceptions\NotFoundException;
+use Lanops\Challonge\Exceptions\ValidationException;
+use Lanops\Challonge\Exceptions\UnauthorizedException;
+use Lanops\Challonge\Exceptions\InvalidFormatException;
+use Lanops\Challonge\Exceptions\UnexpectedErrorException;
 
 class Guzzle
 {

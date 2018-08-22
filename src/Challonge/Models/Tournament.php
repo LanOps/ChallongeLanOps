@@ -1,12 +1,12 @@
 <?php
 
-namespace Reflex\Challonge\Models;
+namespace Lanops\Challonge\Models;
 
-use Reflex\Challonge\Model;
-use Reflex\Challonge\Helpers\Guzzle;
-use Reflex\Challonge\Models\Participant;
-use Reflex\Challonge\Exceptions\StillRunningException;
-use Reflex\Challonge\Exceptions\AlreadyStartedException;
+use Lanops\Challonge\Model;
+use Lanops\Challonge\Helpers\Guzzle;
+use Lanops\Challonge\Models\Participant;
+use Lanops\Challonge\Exceptions\StillRunningException;
+use Lanops\Challonge\Exceptions\AlreadyStartedException;
 
 class Tournament extends Model
 {

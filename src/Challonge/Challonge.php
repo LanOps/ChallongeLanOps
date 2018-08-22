@@ -1,11 +1,11 @@
 <?php
 
-namespace Reflex\Challonge;
+namespace Lanops\Challonge;
 
-use Reflex\Challonge\Models\Match;
-use Reflex\Challonge\Helpers\Guzzle;
-use Reflex\Challonge\Models\Tournament;
-use Reflex\Challonge\Models\Participant;
+use Lanops\Challonge\Models\Match;
+use Lanops\Challonge\Helpers\Guzzle;
+use Lanops\Challonge\Models\Tournament;
+use Lanops\Challonge\Models\Participant;
 
 class Challonge
 {

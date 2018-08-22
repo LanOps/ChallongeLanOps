@@ -1,6 +1,6 @@
 <?php
 
-namespace Reflex\Challonge\Exceptions;
+namespace Lanops\Challonge\Exceptions;
 
 class AlreadyStartedException extends \Exception
 {

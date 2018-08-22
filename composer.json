@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lanops\\Challonge\\": "src/Challonge"
+            "lno\\Challonge\\": "src/Challonge"
         }
     }
 }

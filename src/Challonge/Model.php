@@ -1,6 +1,6 @@
 <?php
 
-namespace Reflex\Challonge;
+namespace Lanops\Challonge;
 
 class Model
 {
